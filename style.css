@@ -1,0 +1,28 @@
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    background-color:rgb(22, 143, 120);
+    color:rgb(195, 171, 36)
+}
+p,label{
+    font-size:18px;
+}
+table{
+    border-collapse:collapse;
+}
+th,td{
+    font-size:18px;
+    width: 33.33%;
+    text-align: center; /*cÄƒn lá» cho vÄƒn báº£n*/
+
+}
+.images{
+    position: absolute;
+    width: 150px;
+    height: 250px;
+    top:10px;
+    right:0;
+}
+.tr
+{
+    background-color: rgb(206, 206, 200);
+}
